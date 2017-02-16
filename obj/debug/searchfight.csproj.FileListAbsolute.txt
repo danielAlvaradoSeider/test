@@ -1,0 +1,7 @@
+C:\daniel\prototiposVS\cygniumTest\bin\Debug\cygniumTest.exe.config
+C:\daniel\prototiposVS\cygniumTest\bin\Debug\cygniumTest.exe
+C:\daniel\prototiposVS\cygniumTest\bin\Debug\cygniumTest.pdb
+C:\daniel\prototiposVS\cygniumTest\bin\Debug\Newtonsoft.Json.dll
+C:\daniel\prototiposVS\cygniumTest\obj\Debug\searchfight.csprojResolveAssemblyReference.cache
+C:\daniel\prototiposVS\cygniumTest\obj\Debug\cygniumTest.exe
+C:\daniel\prototiposVS\cygniumTest\obj\Debug\cygniumTest.pdb
